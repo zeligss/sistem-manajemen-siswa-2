@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\Semester 2\\Struktur Data\\sistem-manajemen-siswa-main\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74189C37-75CD-4332-ABDA-CEFF9CEF2258}|Project1\\Project1.vcxproj|D:\\Kuliah\\Semester 2\\Struktur Data\\sistem-manajemen-siswa-main\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74189C37-75CD-4332-ABDA-CEFF9CEF2258}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Kuliah\\Semester 2\\Struktur Data\\sistem-manajemen-siswa-main\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\Kuliah\\Semester 2\\Struktur Data\\sistem-manajemen-siswa-main\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T15:03:57.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
